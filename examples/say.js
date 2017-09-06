@@ -1,2 +1,2 @@
 // Say Something
-say("I am Homey, and this is written in HomeyScript!");
+Homey.speechOutput.say("I am Homey, and this is written in HomeyScript!");
